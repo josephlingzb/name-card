@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Sua;Limonium;;;
+FN: Limonium Sua
+ORG:Vouch;
+TITLE:General Manager (EU)
+EMAIL;type=INTERNET;type=WORK;type=pref:limonium@vouchconcierge.com
+TEL;type=WORK;type=VOICE:+65 9119 0852
+item1.ADR;type=WORK;type=pref:;;75 Ayer Rajah Crescent #01-03;;;139953;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:vouchconcierge.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
