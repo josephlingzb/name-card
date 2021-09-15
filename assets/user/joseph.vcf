@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Ling;Joseph;;;
+FN: Joseph Ling
+ORG:Vouch;
+TITLE:Founder and CEO
+EMAIL;type=INTERNET;type=WORK;type=pref:joseph@vouchconcierge.com
+TEL;type=WORK;type=VOICE:+65 8228 4107
+item1.ADR;type=WORK;type=pref:;;75 Ayer Rajah Crescent #01-03;;;139953;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:vouchconcierge.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
