@@ -97,6 +97,8 @@ a {
 	align-items: center;
 	border-bottom: 1px solid #E5E5E5;
 	color: var(--color-dark-gray);
+	min-height: 70px;
+	max-height: 70px;
 }
 
 .details__item:after {
